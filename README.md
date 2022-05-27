@@ -11,17 +11,21 @@ Follow the steps below.
 1. Open the Linux (Debian Flavour) Terminal.
 
 2. Create a New Directory.
+
    `e.g mkdir Server`
   
 3. Move into the Directory.
+
    `cd Server`
    
 4. Clone the script from Github Repository.
+
     `sudo git clone https://github.com/Muhammad-Shawaiz/Apache-Web-Server`
     
 5. Now you will see the Directory named as "Apache-Web-Server" with the help of `ls` command.
 
 6. Move into the Apache-Web-Server Directory by typing the command.
+
    `cd Apache-Web-Server`
    
 7. By typing `ls` command, a file named ApacheScript.sh in Green Color is the Script.
@@ -29,6 +33,7 @@ Follow the steps below.
 8. Before running the Script, please make sure that your Network Adapter would be on "Bridged Adapter" if you are working by creating VM.
 
 9. Run the script by typing 
+
     `./ApacheScript.sh`
     
 10. After running Script, check the IPv4 of your Guest Machine and resolve it on your Base Machine.In MacOs, the file to resolve IP over name is /etc/hosts. 
