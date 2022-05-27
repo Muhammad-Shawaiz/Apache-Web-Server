@@ -16,7 +16,7 @@ Follow the steps below.
 3. Move into the Directory.
    `cd Server`
    
-4. Clone the script.
+4. Clone the script from Github Repository.
     `sudo git clone https://github.com/Muhammad-Shawaiz/Apache-Web-Server`
     
 5. Now you will see the Directory named as "Apache-Web-Server" with the help of `ls` command.
